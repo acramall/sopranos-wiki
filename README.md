@@ -1,7 +1,6 @@
 [![9cf5bb9d2c05a0aaa7f6656573ffa699-d98891s.md.png](https://cdn.scrot.moe/images/2018/09/05/9cf5bb9d2c05a0aaa7f6656573ffa699-d98891s.md.png)](https://scrot.moe/image/9RAw2)
 
 
-
 # Help Guide for Vivaldi Wiki page
 
 ## Overview
