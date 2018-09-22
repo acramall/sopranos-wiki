@@ -1,5 +1,5 @@
 
-![Screenshot_2018-09-05_05-21-32.png](https://cdn.scrot.moe/images/2018/09/05/Screenshot_2018-09-05_05-21-32.png)
+[![product_logo_128.th.png](https://cdn.scrot.moe/images/2018/09/22/product_logo_128.th.png)](https://scrot.moe/image/95Nnj)
 # Help Guide for Vivaldi Wiki page
 
 ## Overview
